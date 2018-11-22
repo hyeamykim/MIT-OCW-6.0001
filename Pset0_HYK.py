@@ -23,5 +23,3 @@ print("")
 # print(int(math.floor(math.log(int(a),2))))
 # print("log 2 of X:", math.log(int(a),2))
 print('log 2 of X:', np.log2(int(a)))
-
-# my keyboard does not have a backslash so how do I start a new line?
